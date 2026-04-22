@@ -148,12 +148,3 @@ Após iniciar o sistema, cadastre usuários pela interface em **http://localhost
 
 ---
 
-## Gerar documentação .docx
-
-```bash
-# Na raiz do projeto
-pip install python-docx
-python generate_docs.py
-```
-
-Isso gerará o arquivo `Documentacao_MindTrack.docx` na raiz do projeto.
